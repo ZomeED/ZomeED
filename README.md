@@ -1,6 +1,6 @@
 # Hi, I'm Jose Antonio 👋
 
-I'm a **Web Application Development** student based in Spain. I’ve spent the last couple of years diving into different programming languages and building projects to understand how the web works from the inside out.
+I'm a **Web Application Development** student trained in Spain. I’ve spent the last couple of years diving into different programming languages and building projects to understand how the web works from the inside out.
 
 I enjoy coding, solving logic problems, and seeing a project go from a database schema to a working interface. I have a solid foundation in several languages and I’m really motivated to keep learning and refining my skills. For me, every project is an opportunity to get better and see how technologies are used in the professional world.
 
